@@ -56,4 +56,4 @@ This project shows that stress detection using wearable signals is possible usin
 
 ## Author
 Adarsh konderu
-Adarshkonderu51@gmail.com 
+Adarshkonderu51@gmail.com
