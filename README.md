@@ -1,18 +1,18 @@
-# Relapse Risk Detection Using Wearable Physiological Signals
+# Relapse Risk Detection Using Wearable Physiological Signals in AUD
 
 ## Overview
-In this project, I focused on detecting stress using wearable physiological signals. 
-Stress is considered one of the major factors that can lead to alcohol relapse, so identifying it early can help in understanding relapse risk.
+In this project, I have mainly focused on detecting stress using wearable physiological signals. 
+Because Stress is considered as one of the major factor for alcohol relapse, so identifying it early can help in understanding relapse risk.
 
 ## Dataset
-The project uses the WESAD dataset, which contains physiological data collected from wearable devices.
+i have used the WESAD dataset, which contains physiological data collected from wearable devices.
 
-Signals used:
+Signals used :
 - EDA (Electrodermal Activity)
 - BVP (Blood Volume Pulse)
 - Temperature
 
-Data from 15 participants was used for the final model.
+Data collected from 15 participants was used for the final model.
 
 ## Methodology
 The raw signals were first divided into smaller segments using a window size of 200 samples (around 50 seconds).
@@ -55,4 +55,5 @@ The model performed well in detecting stress cases.
 This project shows that stress detection using wearable signals is possible using machine learning, and it has potential for real-world applications.
 
 ## Author
-Adarsh
+Adarsh konderu
+Adarshkonderu51@gmail.com 
